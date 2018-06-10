@@ -121,7 +121,7 @@ export default class App extends React.Component {
               3. in handler :- handler=(value)=>{
                 // my code
               } */}
-              
+
               <td><button onClick={()=>this.props.handleUpdate(2)}>Two</button></td>
               <td><button onClick={()=>this.props.handleUpdate(3)}>Three</button></td>
             </tr>
